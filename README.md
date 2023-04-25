@@ -1,4 +1,6 @@
 # 💫 About Me:
+<h1 align="center">Oi 👋, Eu sou Talison Castro</h1>
+<h3 align="center">Apaixonado por frond-end e back-end, Amo programação</h3>
 🔭 Atualmente estou trabalhando em um projeto pessoal App de Orçamento Pessoal<br>🌱 Atualmente estou aprendendo Python, linguagem C, C++ e C#<br>💬 Me pergunte sobre Html, css3, bootstrap,JS, MySQL, JQuery e PHP 7<br>📫 Você me acha através do e-mail talisonmatoscastro@gmail.coom
 
 
